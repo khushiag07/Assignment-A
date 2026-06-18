@@ -362,3 +362,61 @@ The final shortlist was created by prioritizing companies that combined:
 * Future scalability
 
 The final Top 25 companies represent the highest probability targets based on the Federer company framework.
+
+# Research Tools, Code & AI Usage
+
+## Code Usage
+
+No automated web scraping scripts or API-based data extraction tools were used for this assignment.
+
+The research was performed through a structured manual research workflow to ensure company quality and evidence accuracy.
+
+## Research Workflow
+
+The process followed:
+
+1. Company Discovery
+   - Built an initial universe of Hyderabad-based manufacturing companies.
+   - Sources included industry directories, company websites, business databases, and public company information.
+
+2. Company Validation
+   Each company was manually checked for:
+   - Manufacturing capability
+   - Product portfolio
+   - Location accessibility
+   - Leadership/decision-maker details
+   - Revenue fit
+   - Certifications and operational maturity
+
+3. Data Structuring
+
+Information was organized into a structured dataset containing:
+
+- Company profile
+- Eligibility gate results
+- C3-C8 Federer scoring criteria
+- Evidence-based reasoning
+- Outreach personalization hook
+
+## AI Assistance Usage
+
+AI tools were used as a research productivity assistant for:
+
+- Structuring the research framework
+- Organizing collected information
+- Creating the scoring template
+- Formatting the dataset
+- Summarizing evidence into consistent evaluation criteria
+
+All final company decisions were evaluated using the provided Federer scoring framework.
+
+## Tools Used
+
+- Google Search
+- Company websites
+- MCA/company information sources
+- LinkedIn company research
+- Industry directories
+- AI-assisted research organization
+
+No private or restricted datasets were used.
